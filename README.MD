@@ -61,3 +61,4 @@ The required functions were
 + Hold an interactive session with multiple users at the same time (using fork)
 + Allow users to disconnect with custom commands
 + Return information to the user based on thier commands (Get all movies, get one movie, get an error message or disconnect from server)
++ Use make files to build the application
